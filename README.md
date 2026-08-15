@@ -137,7 +137,6 @@ The observed extreme values were considered plausible customer behavior and were
 connectatel-customer-usage-analysis/
 │
 ├── data/
-│   ├── README.md
 │   ├── plans.csv
 │   ├── usage.csv
 │   └── users_latam.csv

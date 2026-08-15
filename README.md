@@ -145,14 +145,11 @@ connectatel-customer-usage-analysis/
 └── README.md
 ```
 
-## How to Run
+## Reproducibility
 
-1. Download or clone this repository.
-2. Open `ConnectaTel_Customer_Usage_Segmentation_Analysis.ipynb`.
-3. Install the required libraries if needed: `pandas`, `numpy`, `matplotlib`, and `seaborn`.
-4. Run the notebook from top to bottom.
+The analysis is contained in `ConnectaTel_Customer_Usage_Segmentation_Analysis.ipynb`.
 
-The datasets are included in the `data/` directory and are loaded using relative paths, so no path modifications are required.
+The required datasets are available in the `data/` directory and are loaded using relative paths. The notebook uses `pandas`, `numpy`, `matplotlib`, and `seaborn` and can be executed from top to bottom in a Jupyter-compatible environment.
 
 ## Author
 

@@ -1,5 +1,16 @@
 # ConnectaTel Customer Usage & Segmentation Analysis
 
+**Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
+**Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
+**Portfolio page:** [connectatel customer usage analysis](https://rogarzag.github.io/projects/connectatel/)  
+**GitHub repository:** [connectatel-customer-usage-analysis](https://github.com/rogarzag/connectatel-customer-usage-analysis)  
+**Project focus:** Data Analytics · Data Quality · Exploratory Analysis · Feature Engineering · Customer Segmentation  
+**Project context:** TripleTen Data Analyst Bootcamp; guided portfolio project  
+**Data / case coverage:** Telecommunications customer, plan, and usage datasets; analysis period not specified in the README  
+**Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
+
+## Project Overview
+
 Customer usage, segmentation, and statistical analysis for a telecommunications dataset using Python.
 
 ## Project Context
@@ -151,8 +162,6 @@ The analysis is contained in `ConnectaTel_Customer_Usage_Segmentation_Analysis.i
 
 The required datasets are available in the `data/` directory and are loaded using relative paths. The notebook uses `pandas`, `numpy`, `matplotlib`, and `seaborn` and can be executed from top to bottom in a Jupyter-compatible environment.
 
-## Author
+## Conclusion
 
-**Rodrigo Garza García**
-
-Data Analytics | Business Analysis | Strategy & Operations
+The analysis identifies Medium Usage customers as the largest segment and describes differences in plan, age, and usage patterns that can guide retention and engagement questions. Extreme usage observations were retained because they were considered plausible customer behavior. The recommendations are hypotheses for further business evaluation, not measured interventions or proven causes of churn.

@@ -4,9 +4,9 @@
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
 **Portfolio page:** [Professional Website — Projects](https://rogarzag.github.io/#projects)  
 **GitHub repository:** [connectatel-customer-usage-analysis](https://github.com/rogarzag/connectatel-customer-usage-analysis)  
-**Project focus:** Data Analytics · Data Quality · Exploratory Analysis · Feature Engineering · Customer Segmentation  
+**Project focus:** Data Analytics · Data Quality · Customer Usage · Customer-Level Measures · Segmentation  
 **Project context:** TripleTen Data Analyst Bootcamp; guided portfolio project  
-**Data / case coverage:** Telecommunications customer, plan, and usage datasets; analysis period not specified in the README  
+**Data / period covered:** Telecommunications customer, plan, and usage datasets; analysis period not specified in the README  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
@@ -51,8 +51,8 @@ The datasets used in this guided project are included in the repository to suppo
 - Data cleaning
 - Exploratory Data Analysis (EDA)
 - Descriptive statistics
-- Feature engineering
-- IQR outlier analysis
+- Creating customer-level usage measures
+- Review of unusually high usage values
 - Customer segmentation
 - Business-oriented interpretation
 
@@ -164,4 +164,4 @@ The required datasets are available in the `data/` directory and are loaded usin
 
 ## Conclusion
 
-The analysis identifies Medium Usage customers as the largest segment and describes differences in plan, age, and usage patterns that can guide retention and engagement questions. Extreme usage observations were retained because they were considered plausible customer behavior. The recommendations are hypotheses for further business evaluation, not measured interventions or proven causes of churn.
+The analysis found that Medium Usage customers make up the largest segment and describes how usage differs by plan and age group. High usage values were kept because they appeared possible rather than confirmed errors. The suggested retention and engagement actions are ideas for further review; the project did not test whether they reduce churn.

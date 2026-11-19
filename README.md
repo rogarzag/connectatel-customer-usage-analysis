@@ -2,7 +2,7 @@
 
 **Author:** [Rodrigo Garza García](https://www.linkedin.com/in/rodrigogarzamx/)  
 **Professional focus:** Public & International Affairs · Business Analysis · Data Analytics  
-**Portfolio page:** [connectatel customer usage analysis](https://rogarzag.github.io/projects/connectatel/)  
+**Portfolio page:** [Professional Website — Projects](https://rogarzag.github.io/#projects)  
 **GitHub repository:** [connectatel-customer-usage-analysis](https://github.com/rogarzag/connectatel-customer-usage-analysis)  
 **Project focus:** Data Analytics · Data Quality · Exploratory Analysis · Feature Engineering · Customer Segmentation  
 **Project context:** TripleTen Data Analyst Bootcamp; guided portfolio project  

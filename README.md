@@ -6,7 +6,7 @@
 **GitHub repository:** [connectatel-customer-usage-analysis](https://github.com/rogarzag/connectatel-customer-usage-analysis)  
 **Project focus:** Data Analytics · Data Quality · Customer Usage · Customer-Level Measures · Segmentation  
 **Project context:** TripleTen Data Analyst Bootcamp; guided portfolio project  
-**Data / period covered:** Telecommunications customer, plan, and usage datasets; analysis period not specified in the README  
+**Data / project coverage:** Telecommunications customer, plan, and usage datasets; analysis period not specified in the README  
 **Professional links:** [GitHub profile](https://github.com/rogarzag) · [LinkedIn](https://www.linkedin.com/in/rodrigogarzamx/) · [Professional Website](https://rogarzag.github.io/)
 
 ## Project Overview
@@ -17,7 +17,7 @@ Customer usage, segmentation, and statistical analysis for a telecommunications 
 
 This is a **guided portfolio project** completed as part of the **TripleTen Data Analyst Bootcamp**.
 
-TripleTen provided the case framework and datasets. The data cleaning, feature engineering, statistical analysis, visualizations, customer segmentation, and business interpretation were completed as part of my project work.
+TripleTen provided the case framework and datasets. The data cleaning, customer-level usage measures, statistical analysis, visualizations, customer segmentation, and business interpretation were completed as part of my project work.
 
 ## Business Objective
 
@@ -69,7 +69,7 @@ The datasets used in this guided project are included in the repository to suppo
    - Corrected registration dates outside the expected analysis period.
    - Preserved structurally expected missing values when fields did not apply to a particular interaction type.
 
-4. **Customer-Level Feature Engineering**
+4. **Customer-Level Customer-Level Usage Measures**
    - Aggregated interaction-level data by customer.
    - Created:
      - `msg_cnt` — total messages per customer.
